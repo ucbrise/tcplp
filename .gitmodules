@@ -1,0 +1,9 @@
+[submodule "leaf_nodes/anemometer-qualified-fw"]
+	path = leaf_nodes/anemometer-qualified-fw
+	url = https://github.com/samkumar/anemometer-qualified-fw
+[submodule "router_nodes/anemometer-qualified-fw"]
+	path = router_nodes/anemometer-qualified-fw
+	url = https://github.com/samkumar/anemometer-qualified-fw
+[submodule "border_router_node/anemometer-tcp-br"]
+	path = border_router_node/anemometer-tcp-br
+	url = https://github.com/samkumar/anemometer-tcp-br
